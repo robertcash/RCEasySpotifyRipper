@@ -27,5 +27,5 @@ RCEasySpotifyRipper is a Python script that easily rips multiple Spotify MP3's a
 
 ## Note
 
-  You must change directory in terminal to wherever the RCEasySpotifyRipper folder is to use RCEasySpotifyRipper.py. For   example, if RCEasySpotifyRipper foler is in documents, enter cd Documents/RCEasySpotifyRipper and enter the usual command python RCEasySpotifyRipper.py YOURUSERNAME YOURPASSWORD. 
+  You must change directory in terminal to wherever the RCEasySpotifyRipper folder is to use RCEasySpotifyRipper.py. For   example, if RCEasySpotifyRipper folder is in documents, enter cd Documents/RCEasySpotifyRipper and enter the usual command python RCEasySpotifyRipper.py YOURUSERNAME YOURPASSWORD. 
 
