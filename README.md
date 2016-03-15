@@ -14,7 +14,7 @@ RCEasySpotifyRipper is a Python script that easily rips Spotify MP3's built on t
 
   python RCEasySpotifyRipperSetup.py install
   
-4. As indicated in the last few lines printed in the setup program. You must go to https://devaccount.spotify.com/my-account/keys/ to get an application key. You must have a Spotify Premium account to do so. After you make an application and download the Binary key, put the file spotify_appkey.key into the folder with the rest of the files of RCEasySpotifyRipper.
+4. As indicated in the last few lines printed in the setup program. You must go to https://devaccount.spotify.com/my-account/keys/ to get an application key. You must have a Spotify Premium account to do so. After you make an application and download the Binary key, put the file "spotify_appkey.key" into the folder with the rest of the files of RCEasySpotifyRipper.
 
 5. Edit spotify_list.txt by adding a url to each line to download any number of desired tracks:
   
