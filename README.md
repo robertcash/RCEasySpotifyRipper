@@ -1,6 +1,6 @@
 # RCEasySpotifyRipper
 
-RCEasySpotifyRipper is a Python script that easily rips Spotify MP3's built on top of [spotify-ripper](https://github.com/jrnewell/spotify-ripper). Mac OS only supported.
+RCEasySpotifyRipper is a Python script that easily rips multiple Spotify MP3's at once built on top of [spotify-ripper](https://github.com/jrnewell/spotify-ripper). Mac OS only supported.
 
 ## How to use
 
